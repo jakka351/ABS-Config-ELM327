@@ -5,3 +5,12 @@
 Written in Python(PySimpleGUI) for ELM327 Interfaces.
 
 Sets the As Built Configuration for the Antilock Brake System Module.
+
+
+## Install & run
+
+1. `git clone https://github.com/jakka351/ABS-Config-ELM327`  
+2. `cd ABS-Config-ELM327`
+3. `pip3 install -r requirements.txt`
+4. `python3 main.py`
+
