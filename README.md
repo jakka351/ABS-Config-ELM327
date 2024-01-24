@@ -1,4 +1,4 @@
-# Ford FG ABS Module Config Tool
+# Ford FG ABS Config Tool
 
 <a href="https://testerpresent.com.au/"><img src="https://img.shields.io/badge/Tester Present -Specialist Automotive Solutions-blue" /></a>
 
