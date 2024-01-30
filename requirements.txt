@@ -1,2 +1,13 @@
-PySimpleGUI
-python-can
+altgraph==0.17.4
+future==0.18.3
+iso8601==2.1.0
+packaging==23.2
+pefile==2023.2.7
+pyinstaller==6.3.0
+pyinstaller-hooks-contrib==2023.12
+PySimpleGUI==4.60.5
+pywin32-ctypes==0.2.2
+PyYAML==6.0.1
+serial==0.0.97
+setuptools==69.0.3
+simplepyble==0.6.1
